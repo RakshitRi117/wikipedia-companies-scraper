@@ -149,5 +149,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-**[Your Name]**
-GitHub: [@your-username](https://github.com/<your-username>)
+**Rakshit Chaudhary**
+GitHub: [@RakshitRi117](https://github.com/<your-username>)
